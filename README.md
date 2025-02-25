@@ -4,8 +4,8 @@
 A web platform where students can submit and track complaints within their college.
 
 ## Tech Stack
-- **Frontend**: React.js
-- **Backend**: Express.js
+- **Frontend**: ReactJS
+- **Backend**: ExpressJS
 - **Database**: MongoDB
 
 ## Features
